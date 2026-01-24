@@ -8,7 +8,7 @@
 
 ## 🔭 About Me
 
-I am a Computer Science student at **UCJC**, specializing in the field of **Software Development**. I am passionate about code that solves problems and improves daily life, especially through automation and scripting.
+I am a Computer Science student at **UCJC**, specializing in the field of **Software Development**. I'm passionate about code that solves problems and improves daily life, especially through automation and scripting.
 
 * 💻 Currently, I dedicate my time to improving my software development skills, and I enjoy the efficiency that scripting brings to everyday tasks.
 * 🎮 I am also a computer games enthusiast.
